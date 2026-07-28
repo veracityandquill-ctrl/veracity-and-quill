@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://veracity-and-quill.veracityandquill.workers.dev/sitemap.xml
